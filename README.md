@@ -21,7 +21,7 @@ This project was super fun! My tasks revolved around data collecting, organizing
      - Additionally, I generated a bar plot to compare average ratings between Saturday and Sunday for open food trucks.
    
 3. **Travel Plan Generation:**
-   - **Libraries and Technologies:** Pandas, Google Maps API (Directions), Matplotlib
+   - **Libraries and Technologies:** Google Maps API (Directions), RapidAPI (Route and directions), OpenRouteService API, and Matplotlib
    - **Process:** I generated a two-day weekend foodie plan for Xterns. It included location names, addresses, cuisine types, travel times, travel distances, and transportation methods (walking or driving). I also visualized travel routes.
    - **Visualizations:**
      - I created travel route visualizations with details on distance and duration for both walking and driving modes on Saturday and Sunday.
