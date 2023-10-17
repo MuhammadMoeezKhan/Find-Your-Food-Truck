@@ -1,10 +1,9 @@
 # Xtern-FoodX-DataScience
 
-**Project Implementation - Food Truck Data Collection and Analysis**
 
-**Description:**
+**My Task:**
 
-The objective of this project was to collect, organize, analyze, and visualize data related to local food trucks in Indiana. I aimed to create a comprehensive dataset of food trucks, including their basic information such as name, address, rating, website, open hours, and cuisine type. Additionally, my task was to plan a two-day weekend foodie tour for Xterns, including travel routes, time schedules, travel distances, and transportation methods.
+This project was super fun! My tasks revolved around data collecting, organizing, analyzing, and visualizing data related to local food trucks in Indiana. I aimed to create a comprehensive dataset of food trucks, including their basic information such as name, address, rating, website, open hours, and cuisine type. Additionally, my task was to plan a two-day weekend foodie tour for Xterns, including travel routes, time schedules, travel distances, and transportation methods.
 
 **Summary of My Implementation:**
 
@@ -42,4 +41,4 @@ The objective of this project was to collect, organize, analyze, and visualize d
    - API usage (Google Maps API).
    - Data presentation in tabular format.
    
-**I successfully achieved our goals by creating a valuable dataset of local food trucks and a well-organized two-day foodie plan. The visualizations enhanced my understanding of the data, helping in the creation of the travel plan and improving the overall experience for the Xterns.**
+**I successfully achieved our goals by creating a valuable dataset of local food trucks and a well-organized two-day foodie plan. The visualizations enhanced my understanding of the data, helping in the creation of the travel plan and improving the overall experience for the Xterns!**
