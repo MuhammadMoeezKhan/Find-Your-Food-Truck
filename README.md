@@ -38,7 +38,7 @@ This project was super fun! My tasks revolved around data collecting, organizing
    - Data analysis and visualization.
    - Geocoding for mapping.
    - Error and exception handling.
-   - API usage (Google Maps API).
+   - API usage (Google Maps, RapidAPI, OpenService).
    - Data presentation in tabular format.
    
 **I successfully achieved our goals by creating a valuable dataset of local food trucks and a well-organized two-day foodie plan. The visualizations enhanced my understanding of the data, helping in the creation of the travel plan and improving the overall experience for the Xterns!**
