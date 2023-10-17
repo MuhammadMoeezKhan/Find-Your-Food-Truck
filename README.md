@@ -8,7 +8,7 @@ This project was super fun! My tasks revolved around data collecting, organizing
 **Summary of My Implementation:**
 
 1. **Data Collection:**
-   - **Libraries and Technologies:** Python, Google Maps API (Google Maps Client), Pandas, Requests
+   - **Libraries and Technologies:** Python, Google Maps API (Places + Directions), OpenRouteService API (Routes), and Matplotlib, Pandas, Requests
    - **Process:** I utilized the Google Maps API to collect data on local food trucks. The API was used to retrieve information such as name, address, rating, website, open hours, and cuisine type for various food trucks. I then cleaned and organized the data into a DataFrame using Pandas.
    - **Data Collected:** The resulting dataset included details about each food truck's name, address, rating, website, open hours, and cuisine type.
 
@@ -21,7 +21,7 @@ This project was super fun! My tasks revolved around data collecting, organizing
      - Additionally, I generated a bar plot to compare average ratings between Saturday and Sunday for open food trucks.
    
 3. **Travel Plan Generation:**
-   - **Libraries and Technologies:** Google Maps API (Places + Directions), RapidAPI (Route and directions), OpenRouteService API (), and Matplotlib
+   - **Libraries and Technologies:** Google Maps API (Places + Directions), RapidAPI (Route and directions), OpenRouteService API (Routes), and Matplotlib
    - **Process:** I generated a two-day weekend foodie plan for Xterns. It included location names, addresses, cuisine types, travel times, travel distances, and transportation methods (walking or driving). I also visualized travel routes.
    - **Visualizations:**
      - I created travel route visualizations with details on distance and duration for both walking and driving modes on Saturday and Sunday.
