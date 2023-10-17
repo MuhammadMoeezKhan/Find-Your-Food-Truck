@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",big Jerry Indy food truck,"8522 Madison Ave, Indianapolis, IN 46227, USA",9.5 mi,3 hours 32 mins,8.8 mi,20 mins,5.0,10:30AM-7:00PM,n/a,n/a,drive
+2,big Jerry Indy food truck,"8522 Madison Ave, Indianapolis, IN 46227, USA",The Latin Flavor,"9930 E 38th St, Indianapolis, IN 46235, USA",18.7 mi,6 hours 53 mins,19.9 mi,29 mins,5.0,12:00PM-11:00PM,n/a,n/a,drive
+3,The Latin Flavor,"9930 E 38th St, Indianapolis, IN 46235, USA",FELIX TACOS TRUCK,"3145 W Washington St, Indianapolis, IN 46222, USA",13.4 mi,4 hours 54 mins,18.3 mi,26 mins,4.5,5:00PM-12:00AM,False,False,drive
+4,FELIX TACOS TRUCK,"3145 W Washington St, Indianapolis, IN 46222, USA",El Buenavista Food Truck,"5210 English Ave, Indianapolis, IN 46219, USA",7.3 mi,2 hours 43 mins,8.9 mi,20 mins,5.0,1:59PM-4:59AM,n/a,n/a,drive
+5,El Buenavista Food Truck,"5210 English Ave, Indianapolis, IN 46219, USA",Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",4.4 mi,1 hour 38 mins,4.5 mi,14 mins,-,-,-,-,drive
