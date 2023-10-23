@@ -1,11 +1,11 @@
 # Indianapolis Xtern's FoodX Tour
 
 
-**My Task:**
+## The Goal:
 
 This project was super fun! My tasks revolved around data collecting, organizing, analyzing, and visualizing data related to local food trucks in Indiana. I aimed to create a comprehensive dataset of food trucks, including their basic information such as name, address, rating, website, open hours, and cuisine type. Additionally, my task was to plan a two-day weekend foodie tour for Xterns, including travel routes, time schedules, travel distances, and transportation methods.
 
-**Summary of My Implementation:**
+## Summary of My Implementation:
 
 1. **Data Collection:**
    - **Libraries and Technologies:** Python, Google Maps API (Places + Directions), OpenRouteService API (Routes), and Matplotlib, Pandas, Requests
@@ -40,5 +40,7 @@ This project was super fun! My tasks revolved around data collecting, organizing
    - Error and exception handling.
    - API usage (Google Maps, RapidAPI, OpenService).
    - Data presentation in tabular format.
+
+<br>
    
 **I successfully achieved our goals by creating a valuable dataset of local food trucks and a well-organized two-day foodie plan. The visualizations enhanced my understanding of the data, helping in the creation of the travel plan and improving the overall experience for the Xterns!**
